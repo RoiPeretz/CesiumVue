@@ -30,8 +30,6 @@ export default defineComponent({
 </template>
 
 <style>
-@import url("/node_modules/cesium/Build/Cesium/Widgets/widgets.css");
-
 .viewer {
   width: 100%;
   height: 100%;
